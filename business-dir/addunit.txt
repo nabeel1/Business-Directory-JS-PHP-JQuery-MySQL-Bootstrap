@@ -1,0 +1,73 @@
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8322854526941107";
+/* header ad */
+google_ad_slot = "8590432388";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+========================
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8322854526941107";
+/* content */
+google_ad_slot = "6310344203";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+=======================
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8322854526941107";
+/* upper adunit */
+google_ad_slot = "1192732184";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+======================
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8322854526941107";
+/* contentadd */
+google_ad_slot = "3009612586";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+===
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;&lt;!--
+google_ad_client = &quot;ca-pub-8322854526941107&quot;;
+/* header ad */
+google_ad_slot = &quot;8590432388&quot;;
+google_ad_width = 728;
+google_ad_height = 90;
+//--&gt;
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;
+src=&quot;http://pagead2.googlesyndication.com/pagead/show_ads.js&quot;&gt;
+&lt;/script&gt;
