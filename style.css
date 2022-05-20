@@ -1,0 +1,26 @@
+body{
+
+font-family: Calibri, Georgia, Verdana;
+	font-size: 14px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #0E94CE;
+}
+
+
+
+
+a:link {color:#000000;text-decoration:none; }      /* unvisited link */
+a:visited {color:#000000;text-decoration:none;}  /* visited link */
+a:hover {color:#0E94CE; text-decoration:underline;}  /* mouse over link */
+a:active {color:#000000;}  /* selected link */
+
+a img { border: 0; }
+
+.left ul {list-style:none;  }
+.left  li { list-style:none; background:#2175BC;border-bottom:1px dotted #69BEB5; margin-left:-40px; width:200px; margin-top:0px;}
+.left  li a {color:#fff;text-decoration:none;display:block;font-size:15px;padding:5px; no-repeat 5px;padding-left:17px;}
+.left  li a:hover {background:#3C97E8  no-repeat 5px; width:178px;}
+
+
+

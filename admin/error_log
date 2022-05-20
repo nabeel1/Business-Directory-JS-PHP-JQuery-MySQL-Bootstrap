@@ -1,0 +1,1 @@
+[02-Mar-2013 21:05:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/channels/public_html/city44.co.uk/admin/logout.php:5) in /home/channels/public_html/city44.co.uk/admin/logout.php on line 22
