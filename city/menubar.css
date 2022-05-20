@@ -1,0 +1,172 @@
+/* XUL.fr
+  Apple Menu and More
+  (c) xul.fr LGPL License
+  CSS Document 
+*/
+
+
+#menubar ul
+{
+    font: normal 1.0em arial, sans, sans-serif;
+    margin: 0;
+    padding-left:0;
+    padding-right:0;
+    padding-bottom: 26px;
+}
+
+#menubar ul li
+{
+  display:inline;
+  float:left;
+  margin:0;
+  padding:0;
+  height: 38px;
+  text-align:center;
+}
+
+#menubar ul li a
+{
+  float: left;
+  padding:11px;
+  text-shadow: 0.04em 0.04em white;
+  color:black;
+  -border-right:1px solid #999;  
+  text-decoration: none;
+  background: url(images/menu-blue.gif) center center repeat-x;   
+  z-index:3; 
+  moz-opacity:0.8;
+	opacity:0.8; 
+	MozOpacity: 0.8;
+	KhtmlOpacity: 0.8;
+	filter:alpha(opacity=80);
+	padding-left:32px;
+}
+
+#photo
+{
+  background:url(images/photo.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#banda
+{
+  background:url(images/banda.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+
+#add
+{
+  background:url(images/add.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#house
+{
+  background:url(images/house.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#key
+{
+  background:url(images/key.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#business-dir
+{
+  background:url(images/businessdirectory.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#google
+{
+  background:url(images/menu-google.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#bing
+{
+  background:url(images/menu-bing.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#wolfram
+{
+  background:url(images/menu-wolfram.gif) 5% 40% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+#alexa
+{
+  background:url(images/menu-alexa.gif) 5% 45% no-repeat; 
+  padding-top:16px;
+  z-index:2;
+}
+
+
+.firstitem
+{
+  float:left;
+  padding:0;
+  height:38px;
+  width:14px;
+  min-width:14px;
+  -border-right:1px solid #999;    
+}
+
+.lastitem
+{
+  background-image:url(images/menu-right.gif);
+  padding:0;
+  height:38px;
+  width:14px;
+  min-width:14px;  
+}
+
+.firstitem img, .lastitem img
+{
+  top:0;
+  left:0;
+  padding:0;
+  background:none;
+  height:38px;
+  width:14px;  
+  moz-opacity:0.8;
+	opacity:0.8; 
+	MozOpacity: 0.8;
+	KhtmlOpacity: 0.8;
+	filter:alpha(opacity=80); 
+}
+
+
+
+#menubar li a, #menubar li a:visited, #menubar li a:active
+{
+  text-decoration:none;
+  color:black;  
+}
+
+
+#menubar li a:hover
+{
+  moz-opacity:0.8;
+	opacity:0.8; 
+	MozOpacity: 0.8;
+	KhtmlOpacity: 0.8;
+	filter:alpha(opacity=80);
+  text-shadow:-0.05em -0.05em black;
+  text-shadow: none; 
+  background-image:url(images/menu-blue-dark.gif);
+  border-right:1px solid #CCC;
+} 
+
